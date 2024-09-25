@@ -1,4 +1,0 @@
-Xps7ynHTVgramLKh
-susshhh23
-
-mongodb+srv://susshhh23:Xps7ynHTVgramLKh@clustersf.lawyauv.mongodb.net/?retryWrites=true&w=majority&appName=ClusterSF
